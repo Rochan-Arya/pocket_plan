@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121697477224",
+    "project_id": "pocket-plan-4067e",
+    "storage_bucket": "pocket-plan-4067e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121697477224:android:01a8bc07e945e5d8ccd1dd",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCswJ3LQ4zrsqP0FkcXawh2eqSA4sdejMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
